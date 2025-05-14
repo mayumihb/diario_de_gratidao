@@ -15,26 +15,38 @@ O Diário de Gratidão é um aplicativo que incentiva a prática da gratidão di
 
 ### Tela Principal
 ![Tela Principal](screenshots/home_screen.jpg)
+
 *Tela principal mostrando a lista de gratidões*
+
 
 ### Adicionando Gratidão
 ![Adicionando Gratidão](screenshots/add_gratitude.jpg)
+
 *Campo de entrada para nova gratidão, por teclado ou reconhecimento de voz*
+
 
 ### Reflexão da IA
 ![Reflexão da IA](screenshots/ai_reflection.jpg)
+
 *Dialog mostrando a reflexão gerada pela IA*
+
 
 ### Histórico de gratidão
 ![Histórico de gratidão](screenshots/history.jpg)
+
 *Lista com histórico de reflexões anteriores*
 
+
 ![Detalhes no histórico](screenshots/history_details.jpg)
+
 *Reflexões da IA do item selecionado*
+
 
 ### Deletar item do histórico
 ![Deletar item do histórico](screenshots/delete_history.jpg)
+
 *Deletar item selecionado*
+
 
 ## 🛠️ Tecnologias Utilizadas
 
